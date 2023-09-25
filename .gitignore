@@ -2,3 +2,4 @@
 !docker-compose*.yml
 !docker-compose*.yaml
 !.gitignore
+!commit_docker_compose.sh
